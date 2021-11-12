@@ -12,3 +12,12 @@ you can replace "std" with "taiko", "catch", or "mania".
 you'll need the exact hex code if you want to colour the following text the same as the diff icon.
 i don't know html so instead i just put all the hex codes for each star rating on a sheet:    
 https://docs.google.com/spreadsheets/d/1syuU60RkElArInXg0SBOd_r5DC9WBVNZGjqmf5pj89c/edit?usp=sharing
+
+### example
+```
+[img]https://raw.githubusercontent.com/Purplegaze/osu-stuff/main/diffs/std/3.46.png[/img] [b][color=#f8e15e]Hard[/color][/b]
+[img]https://raw.githubusercontent.com/Purplegaze/osu-stuff/main/diffs/std/4.46.png[/img] [b][color=#ff716b]Insane[/color][/b]
+[img]https://raw.githubusercontent.com/Purplegaze/osu-stuff/main/diffs/std/4.96.png[/img] [b][color=#fc4d76]Expert[/color][/b]
+[img]https://raw.githubusercontent.com/Purplegaze/osu-stuff/main/diffs/std/6.14.png[/img] [b][color=#a952c7]Christmas Delight[/color][/b]
+```
+![image](https://user-images.githubusercontent.com/25409695/141414253-ac8113b1-0459-4f53-bd3d-8f8f70101b16.png)
