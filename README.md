@@ -10,7 +10,8 @@ to put a diff in your description, use this bbcode, replacing "0.00" with your s
 you can replace "std" with "taiko", "catch", or "mania".
 
 you'll need the exact hex code if you want to colour the following text the same as the diff icon.
-i don't know html so instead i just put all the hex codes for each star rating on a sheet:    
+
+to get the hex code just look on this sheet, you can also easily copy the image bbcode from there:    
 https://docs.google.com/spreadsheets/d/1syuU60RkElArInXg0SBOd_r5DC9WBVNZGjqmf5pj89c/edit?usp=sharing
 
 ### example
