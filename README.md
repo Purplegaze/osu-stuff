@@ -1,6 +1,8 @@
 # osu-stuff
 this is my version of azuelle's repo (https://github.com/Azuelle/osuStuff) containing difficulty icons for each star rating, for beatmap descriptions and the such.
 
+full credit to her for the initial idea, as well as the std and taiko template icons.
+
 ## diffs
 to put a diff in your description, use this bbcode, replacing the 0.00 with your star rating **between 0.00 and 9.00**:
 
